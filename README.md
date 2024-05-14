@@ -1,6 +1,6 @@
 # Caso de Uso
 
-![alt text](image.png)
+![image](https://github.com/JoaoEnrique/vcp-alugar-carro/assets/87030375/6ecaf276-58e8-4d26-a92d-e868d5eab19a)
 
 # Diagrama de Classe
-![alt text](image-1.png)
+![image](https://github.com/JoaoEnrique/vcp-alugar-carro/assets/87030375/eb0bff80-fb36-495e-baf3-33131def5c77)
