@@ -4,3 +4,7 @@
 
 # Diagrama de Classe
 ![image](https://github.com/JoaoEnrique/vcp-alugar-carro/assets/87030375/eb0bff80-fb36-495e-baf3-33131def5c77)
+
+
+# Diagrama de Sequencia
+![alt text](image.png)
